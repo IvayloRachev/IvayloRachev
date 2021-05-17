@@ -1,0 +1,3 @@
+- 👋 Bonjour, je m'appelle Ivaylo
+- 👀 Je suis inétressé par le Développement Web
+- 🌱 Actuellement je suis en formation Développeur Web
