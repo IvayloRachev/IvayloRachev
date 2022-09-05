@@ -1,3 +1,3 @@
-- 👋 Bonjour, je m'appelle Ivaylo
-- 👀 Je suis inétressé par le Développement Web
-- 🌱 Actuellement je suis en formation Développeur Web
+- 👋 Bonjour, je m'appelle Ivaylo.
+- 👀 J'ai un BAC +2 Développeur Web.
+- 🌱 Actuellement en formation BAC +4 Concepteur/Développeur d'applications JavaScript/React.
